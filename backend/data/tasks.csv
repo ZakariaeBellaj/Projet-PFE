@@ -1,0 +1,5 @@
+MatriculeCouturiere,Description,Statut,Commentaire,VideoUrl,FilePath
+12345,Tâche 1,Fait,Aucune, ,uploads/1726811318028-text.txt
+12345,Tâche 2,En cours,Doit être terminé demain, ,uploads/1726811318029-video.mp4
+67890,Tâche 3,Non fait,Pas encore commencé, ,uploads/1726811320000-document.pdf
+67890,Tâche 4,Fait,Revue terminée, ,uploads/1726811320001-image.png
